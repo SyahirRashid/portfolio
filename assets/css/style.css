@@ -541,6 +541,12 @@ section {
   opacity: 1;
   bottom: 0;
 }
+.cropped1 {
+width: 200px; 
+height: 200px; 
+object-fit: cover;
+border: 5px solid black;
+}
 
 
 /*--------------------------------------------------------------
